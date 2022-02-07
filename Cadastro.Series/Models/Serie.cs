@@ -7,6 +7,8 @@ namespace Cadastro.Series
     private string Descricao { get; set; }
     private int Ano { get; set; }
 
+    private bool Excluido { get; set; }
+
     public Serie(int Id, Genero Genero, string Titulo, string Descricao, int Ano)
     {
       this.Id = Id;
@@ -14,6 +16,7 @@ namespace Cadastro.Series
       this.Titulo = Titulo;
       this.Descricao = Descricao;
       this.Ano = Ano;
+      this.Excluido = false;
     }
 
     public override string ToString()
@@ -24,6 +27,21 @@ namespace Cadastro.Series
       retorno += "Descricao: + " + this.Descricao + Environment.NewLine;
       retorno += "Ano: + " + this.Ano;
       return retorno;
+    }
+
+    public string RetornaTitulo()
+    {
+      return this.Titulo;
+    }
+
+    internal int RetornaId()
+    {
+      return this.Id;
+    }
+
+    public void ExcluirSerie()
+    {
+      this.Excluido = true;
     }
   }
 }
