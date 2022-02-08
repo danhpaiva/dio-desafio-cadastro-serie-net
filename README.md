@@ -8,7 +8,7 @@
   </a>
 </p>
 <p align="center">
-    Este é um repositório desafio para a DIO
+    Este é um repositório que contém um desafio para a DIO
 </p>
 
 <p align="center">
