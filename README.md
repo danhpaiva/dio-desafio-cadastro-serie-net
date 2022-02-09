@@ -21,7 +21,7 @@
 </p>
 
 <h2 align="center" id=status> 
-	✔️ Concluded ✔️
+	✔️ Concluído ✔️
 </h2>
 
 <h2 id=objective>📜 Objetivo</h2>
@@ -30,8 +30,9 @@ Trabalhar com POO, Boas Práticas em .Net.
 
 <h2 id=installation>☑️ Instalação</h2>
 
-Inicialmente é um repositório informativo.<br>
-No futuro poderão possuir backup's de códigos e anotações.
+- Faça download do repositório
+- Abra a aplicação no Visual Studio Code
+- Debug o código
 
 <h2 id=technology>🧰 Tecnologias</h2>
 Utilizamos algumas tecnologias:
@@ -43,4 +44,5 @@ Utilizamos algumas tecnologias:
 Desenvolvido por <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a>
 
 <h2 id=licence>🆓 Licença</h2>
-Este projeto está sob a licença: <a href="https://github.com/danhpaiva/dio-desafio-cadastro-serie-net/blob/main/LICENSE">MIT</a>
+Este projeto está sob a licença: 
+<a href="https://github.com/danhpaiva/dio-desafio-cadastro-serie-net/blob/main/LICENSE">MIT</a>
