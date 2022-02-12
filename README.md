@@ -13,11 +13,11 @@
 
 <p align="center">
  <a href="#status">Status</a> • 
- <a href="#objective">Objective</a> •
- <a href="#installation">Installation</a> • 
- <a href="#technology">Technology</a> • 
- <a href="#author">Author</a> • 
- <a href="#licence">License</a>
+ <a href="#objective">Objetivo</a> •
+ <a href="#installation">Instalação</a> • 
+ <a href="#technology">Tecnologias</a> • 
+ <a href="#author">Autor</a> • 
+ <a href="#licence">Licença</a>
 </p>
 
 <h2 align="center" id=status> 
